@@ -247,7 +247,6 @@ select:focus {
 }
 
 .subscribe-container {
-  padding-left: 150px;
   border-radius: 8px;
   display: flex;
   align-items: center;
